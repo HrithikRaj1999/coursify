@@ -71,3 +71,13 @@ body {
     @apply bg-background text-foreground;
   }
 }
+
+.cl-formButtonPrimary {
+  color: white;
+  background-color: #0c66ed;
+}
+.cl-formButtonPrimary:hover {
+  color: white;
+  background-color: #3694f2;
+}
+
